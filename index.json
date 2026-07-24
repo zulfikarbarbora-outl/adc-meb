@@ -1,0 +1,436 @@
+{
+  "fileCount": 43,
+  "files": [
+    {
+      "filename": "1_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_C_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_E_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_Ab_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_C_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_E_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_Ab_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_C_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_E_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_C.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_E.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_Ab.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_C_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_E_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "1_Ab_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_C_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_E_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "2_Ab_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_C_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "3_E_r.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    }
+  ],
+  "generatedAt": "2026-07-24T04:10:35Z"
+}
